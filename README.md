@@ -1,20 +1,15 @@
 Hello/Olá 👋 Me chamo Lucas Moreira.
 ==================================
-**Front-end Developer**
+**![front-end developer](https://img.shields.io/static/v1?label=Front-End&message=Developer&color=yellow)**
 
-Analysis and Systems Development on Centro Universitário ENIAC
+
+Computer Engineering on Centro Universitário ENIAC
 --------------------
-
-Desenvolvedor em desenvolvimento.
-
-*   🌍  Guarulhense - SP
-*   ✉️  Me manda um e-mail: [lukkascomics@gmail.com]
-
-<a href="https://www.github.com/Brazlucas" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Brazlucas?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" />
+*   🔴  HubyTech
+*   🌍  Guarulhos - SP
+*   ✉️  Me mande um e-mail =) : [lukkascomics@gmail.com]
 
 ## Habilidades:
-
 
 ### Back-End:
 
@@ -31,11 +26,12 @@ src="https://img.shields.io/github/followers/Brazlucas?logo=github&style=for-the
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="36" height="36" alt="jQuery" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="React" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="MaterialUI" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="36" height="36" alt="Vuetify" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36" height="36" alt="SASS" /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36" height="36" alt="SASS" /></a>
 
  
 ### Banco de Dados:
@@ -53,16 +49,14 @@ src="https://img.shields.io/github/followers/Brazlucas?logo=github&style=for-the
 <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png" width="36" height="36" alt="Google Workspace" /></a>
 <a href="https://linuxmint.com/download.php" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/768px-Linux_Mint_logo_without_wordmark.svg.png" width="36" height="36" alt="Linux Mint" /></a> 
 <a href="https://ubuntubudgie.org" target="_blank" rel="noreferrer"><img src="https://ubuntubudgie.org/wp-content/uploads/2020/04/favicon.png" width="36" height="36" alt="Linux Mint" /></a>
-<a href="https://www.kali.org" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.learnlinux.in%2Fwp-content%2Fuploads%2F2020%2F04%2Fkali.png&f=1&nofb=1" width="36" height="36" alt="Linux Mint" /></a> 
+ <a href="https://linux.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="36" height="36" alt="Jira Software" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="36" height="36" alt="Canva" /></a>
+<a href="canva.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="36" height="36" alt="Canva" /></a>
 </p>
 
 ### Me encontre em:
