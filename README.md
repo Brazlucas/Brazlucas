@@ -96,7 +96,5 @@
 <br />
 
 <div>
-   <img src="https://wakatime.com/share/@Brazlucas/292787c9-d4d5-47c1-9ea8-fc9ad148d610.svg" />
+   <img src="https://wakatime.com/share/@Brazlucas/01ded8ea-a800-4c2e-a3ab-116164819f0a.svg" />
 </div>
-
-<a align="left" href="#"><img width="100%" height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" /></a>
