@@ -21,7 +21,9 @@
 <img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/Brazlucas?style=flat&color=blue" />
 <img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/Brazlucas?color=blue" />
 <img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/Brazlucas?style=flat&color=blue" />
-<!-- <img title="Wakatime" alt="Wakatime" src="https://wakatime.com/badge/user/9225804a-db5b-43a1-8cc8-e5de30485b36.svg" /> -->
+<a href="https://wakatime.com/@9225804a-db5b-43a1-8cc8-e5de30485b36">
+  <img src="https://wakatime.com/badge/user/9225804a-db5b-43a1-8cc8-e5de30485b36.svg" alt="Total time coded since Apr 24 2023" />
+</a>
 
 <br />
 <br />
@@ -85,15 +87,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,webpack,html,css,sass,styledcomponents,cs,dotnet,php,laravel,redis,nginx,java,unity,javascript,typescript,mui,react,vue,vim,bash,powershell,jquery,nodejs,docker,expressjs,nextjs,jest,mongo,mysql,postgresql,vite,figma,linux,github,firebase&theme=dark)](#)
 
-<!-- <a align="left" href="#"><img width="100%" height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" /></a>
+<a align="left" href="#"><img width="100%" height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" /></a>
 
 <div>
-   <img src="https://wakatime.com/share/@Brazlucas/ffd6080b-4079-44ff-a557-659abab4772d.svg" />
-   <img src="https://wakatime.com/share/@Brazlucas/1ddd9c01-f489-4773-b269-d94e7ccfb917.svg" />
+   <img src="https://wakatime.com/share/@Brazlucas/74b2dbd7-da0d-4ea2-a064-2ca88e9f3741.svg" />
 </div>
 
 <br />
 
+<div>
+   <img src="https://wakatime.com/share/@Brazlucas/292787c9-d4d5-47c1-9ea8-fc9ad148d610.svg" />
 </div>
--->
+
 <a align="left" href="#"><img width="100%" height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" /></a>
