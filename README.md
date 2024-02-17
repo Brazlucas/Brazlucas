@@ -33,7 +33,7 @@
 - 💬 I speak english
 - 🏡 Brasileiro, moro no estado de São Paulo
 - 🎮 Gamer e entusiasta de hardware nas horas vagas
-- 📱 Vamos bater um papo sobre programação =D (11) 96518-9569
+- 📱 Vamos bater um papo sobre programação =D (11) 96518-9569.
 
   7\
 
