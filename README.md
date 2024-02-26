@@ -90,7 +90,7 @@
 <a align="left" href="#"><img width="100%" height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" /></a>
 
 <div>
-   <img src="https://wakatime.com/share/@Brazlucas/74b2dbd7-da0d-4ea2-a064-2ca88e9f3741.svg" />
+   <img src="https://wakatime.com/share/@Brazlucas/b15d665c-c664-4bfd-87c3-784e0bc94674.svg" />
 </div>
 
 <br />
