@@ -35,8 +35,6 @@
 - 🎮 Gamer e entusiasta de hardware nas horas vagas
 - 📱 Vamos bater um papo sobre programação :D (11) 96518-9569.
 
-  7\
-
 <br />
 
 <div align="left">
