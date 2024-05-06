@@ -83,7 +83,7 @@
 <br />
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=git,webpack,html,css,sass,styledcomponents,cs,dotnet,php,laravel,redis,nginx,java,unity,javascript,typescript,mui,react,vue,vim,bash,powershell,jquery,nodejs,nest,docker,expressjs,nextjs,jest,mongo,mysql,postgresql,vite,figma,linux,github,firebase&theme=dark)](#)
+[![My Skills](https://skillicons.dev/icons?i=git,webpack,html,css,sass,styledcomponents,cs,dotnet,php,laravel,redis,nginx,java,unity,godot,javascript,typescript,mui,react,vue,vim,bash,powershell,jquery,nodejs,nest,docker,expressjs,nextjs,jest,mongo,mysql,postgresql,vite,figma,linux,github,firebase&theme=dark)](#)
 
 <a align="left" href="#"><img width="100%" height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" /></a>
 
