@@ -33,7 +33,6 @@
 - 💬 I speak english
 - 🏡 Brasileiro, moro no estado de São Paulo
 - 🎮 Gamer e entusiasta de hardware nas horas vagas
-- 📱 Vamos bater um papo sobre programação :D (11) 96518-9569.
 
 <br />
 
@@ -52,16 +51,6 @@
  <a href="https://www.linkedin.com/in/lucas-braz-597118230/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
-
- <!-- <a href="https://www.reddit.com/user/Delete132/" target="_blank">
-   <img src="https://img.shields.io/badge/Reddit-FF0000?style=for-the-badge&logo=reddit&logoColor=white">
- </a>
-
- <a href="#">
-  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="80"/>
- </a>
-</div>
--->
 
 <br />
 <br />
