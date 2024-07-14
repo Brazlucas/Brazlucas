@@ -55,7 +55,7 @@
 <br />
 <br />
 
-<a align="left" href="#"><img width="100%" height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" /></a>
+<!-- <a align="left" href="#"><img width="100%" height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" /></a> -->
 
 <div align="left">
   <a href="#">
@@ -74,14 +74,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,webpack,html,css,sass,styledcomponents,cs,dotnet,php,laravel,redis,nginx,java,unity,godot,javascript,typescript,mui,react,vue,vim,bash,powershell,jquery,nodejs,nest,docker,expressjs,nextjs,jest,mongo,mysql,postgresql,vite,figma,linux,github,firebase&theme=dark)](#)
 
-<a align="left" href="#"><img width="100%" height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" /></a>
+##
+
+<!-- <a align="left" href="#"><img width="100%" height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" /></a>
 
 <div>
    <img src="https://wakatime.com/share/@Brazlucas/b15d665c-c664-4bfd-87c3-784e0bc94674.svg" />
-</div>
+</div> 
 
 <br />
 
 <div>
    <img src="https://wakatime.com/share/@Brazlucas/01ded8ea-a800-4c2e-a3ab-116164819f0a.svg" />
-</div>
+</div> -->
