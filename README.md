@@ -18,7 +18,7 @@
 ##
 
 <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/Brazlucas?style=flat&color=blue&logo=github" />
-<img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/Brazlucas?style=flat&color=blue" />
+<!-- <img title="Github Yearly commits" alt="Github Mothly" align="left" src="https://badges.strrl.dev/commits/monthly/Brazlucas?style=flat&color=blue" /> -->
 <img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/Brazlucas?color=blue" />
 <img title="Repos" alt="Repos" align="left" src="https://badges.strrl.dev/repos/Brazlucas?style=flat&color=blue" />
 <a href="https://wakatime.com/@9225804a-db5b-43a1-8cc8-e5de30485b36">
