@@ -1,17 +1,3 @@
-<div>
-  <a href="mailto:lukkascomics@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333">
-</a>
-
-<a href="https://www.instagram.com/lucasm.brz" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F">
-</a>
-
-<a href="https://www.linkedin.com/in/lucas-braz-597118230/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5">
-</a>
-</div>
-
 <br />
 <br />
 
