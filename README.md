@@ -47,8 +47,6 @@
 
 namespace BrazLucas;
 
-use BrazLucas\Technologies;
-
 class About extends Me
 {
     private const COMPANY = 'Infocar Tecnologia';
