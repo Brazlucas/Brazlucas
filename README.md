@@ -47,15 +47,23 @@
 
 namespace BrazLucas;
 
-use Php;
-use Typescript;
-use Laravel;
-use Vuejs;
+use BrazLucas\Technologies;
 
 class About extends Me
 {
     private const COMPANY = 'Infocar Tecnologia';
+
     private const POSITION = 'Junior Web Developer';
+
+    public const STACK = [
+        Technologies::PHP,
+        Technologies::TYPESCRIPT,
+        Technologies::LARAVEL,
+        Technologies::POSTGRESQL,
+        Technologies::DOCKER,
+        Technologies::VUEJS,
+        Technologies::HYPRLAND,
+    ];
 
     public function getCurrentWorkplace(): array
     {
@@ -69,17 +77,12 @@ class About extends Me
 
     public function getDailyKnowledge(): array
     {
-        return [
-            Php::class,
-            Typescript::class,
-            Laravel::class,
-            Vuejs::class,
-        ];
+        return self::STACK;
     }
 
-    public function getOs(): array
+    public function getLinuxDistro(): string
     {
-        return ['ArchLinux', 'Hyprland'];
+        return 'ArchLinux';
     }
 
     public function getFutureGoal(): string
