@@ -25,7 +25,7 @@
 <br />
 
 <p><em>🏗️ Studying the 5th semester of systems analysis and development</p>
-<p>🏡 Brazilian, I live in the state of São Paulo</p>
+<p>🏡 I am Brazilian :)
 <p>🎮 Gamer and hardware enthusiast in his spare time</em></p>
 
 <br />
@@ -63,9 +63,7 @@ class About extends Me
         Technologies::TYPESCRIPT,
         Technologies::LARAVEL,
         Technologies::POSTGRESQL,
-        Technologies::DOCKER,
         Technologies::VUEJS,
-        Technologies::HYPRLAND,
     ];
 
     public function getCurrentWorkplace(): array
@@ -83,7 +81,7 @@ class About extends Me
         return self::STACK;
     }
 
-    public function getLinuxDistro(): string
+    public function getOs(): string
     {
         return 'ArchLinux';
     }
