@@ -56,7 +56,7 @@ class About extends Me
 {
     private const COMPANY = 'Infocar Tecnologia';
 
-    private const POSITION = 'Junior Web Developer';
+    private const POSITION = 'Full Stack Developer';
 
     public const STACK = [
         Technologies::PHP,
@@ -95,7 +95,7 @@ class About extends Me
 <br />
 
 ## Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,vue,php,laravel,redis,postgresql,bash,nodejs,docker,expressjs,jest&theme=dark)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,vue,php,laravel,go,redis,postgresql,bash,nodejs,docker,expressjs,jest&theme=dark)](#)
 
 <!-- commented code
 ## Other skills
