@@ -64,6 +64,7 @@ class About extends Me
         Technologies::LARAVEL,
         Technologies::POSTGRESQL,
         Technologies::VUEJS,
+        Technologies::GO,
     ];
 
     public function getCurrentWorkplace(): array
