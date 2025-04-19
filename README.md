@@ -24,7 +24,7 @@
 <br />
 <br />
 
-<p><em>🏗️ Studying the 5th semester of systems analysis and development</p>
+<p><em>🏗️ Studying last semester of systems analysis and development</p>
 <p>🏡 I am Brazilian :)
 <p>🎮 Gamer and hardware enthusiast in his spare time</em></p>
 
