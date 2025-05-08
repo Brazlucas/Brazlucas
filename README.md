@@ -96,7 +96,7 @@ class About extends Me
 <br />
 
 ## Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,vue,php,laravel,go,redis,postgresql,bash,nodejs,docker,expressjs,jest&theme=dark)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,nest,vue,php,laravel,go,redis,postgresql,bash,nodejs,docker,expressjs,jest&theme=dark)](#)
 
 <!-- commented code
 ## Other skills
