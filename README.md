@@ -45,7 +45,7 @@
 ### 🎧 Now I'm listening to the song:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=delete132&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6600ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-## A little more about me... <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<!-- ## A little more about me... <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ```php
 <?php
@@ -94,6 +94,8 @@ class About extends Me
 }
 ```
 <br />
+
+!-->
 
 ## Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,nest,vue,php,laravel,go,redis,postgresql,bash,nodejs,docker,expressjs,jest&theme=dark)](#)
